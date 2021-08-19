@@ -4,7 +4,6 @@
 #You can remove the '#' to make them valid and test them!
 
 veracrypt -f -d
-sleep 10
 
 
 #shutdown now
