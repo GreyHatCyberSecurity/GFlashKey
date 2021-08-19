@@ -1,0 +1,10 @@
+#here you can write any actions you want to perform after the usb device has been removed.
+#Just write your bash commands below :)
+#Initially unmounting the veracrypt volume(s) is selected and some other actions are commented out below.
+#You can remove the '#' to make them valid and test them!
+
+veracrypt -f -d
+sleep 10
+
+
+#shutdown now
